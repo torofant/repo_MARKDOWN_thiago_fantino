@@ -1,8 +1,8 @@
-\# Título Principal
+# Título Principal
 
 
 
-\## Subtítulo
+## Subtítulo
 
 
 
@@ -10,7 +10,7 @@ Este es un párrafo con \*\*negrita\*\*, \*cursiva\* y `texto en código`.
 
 
 
-\### Trozo de código
+### Trozo de código
 
 
 
