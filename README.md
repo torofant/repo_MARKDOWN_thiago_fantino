@@ -20,7 +20,7 @@ echo "Hola mundo"
 
 ```
 
-\## Lista ordenada
+### Lista ordenada
 
 1. Primer elemento de la lista
 2. Segundo elemento de la lista
@@ -29,7 +29,7 @@ echo "Hola mundo"
 
 
 
-\## Lista desordenada
+### Lista desordenada
 
 * Primer elemento de la lista
 * Segundo elemento de la lista
@@ -38,25 +38,25 @@ echo "Hola mundo"
 
 
 
-\## Enlace
+### Enlace
 
-\[Enlace al Taller de Markdown](https://pedrosegarra.github.io/DAW/Ud1%20Control%20de%20versiones/P1\_6\_tallerMarkdown/)
-
-
-
-\## Enlace a archivo 
-
-\[Enlace al Segundo archivo](SEGUNDO.md)
+[Enlace al Taller de Markdown](https://pedrosegarra.github.io/DAW/Ud1%20Control%20de%20versiones/P1\_6\_tallerMarkdown/)
 
 
 
-\## Imagen
+### Enlace a archivo 
 
-!\[Logo de GitHub](https://github.githubassets.com/images/modules/logos\_page/GitHub-Mark.png)
+[Enlace al Segundo archivo](SEGUNDO.md)
 
 
 
-\## Tabla
+### Imagen
+
+![Logo de GitHub](https://github.githubassets.com/images/modules/logos\_page/GitHub-Mark.png)
+
+
+
+### Tabla
 
 | Columna 1 | Columna 2 | Columna 3 |
 
